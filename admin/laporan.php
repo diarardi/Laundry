@@ -89,8 +89,9 @@
         <h4>Data Laporan Laundry dari <b><?php echo $dari; ?></b> sampai <b><?php echo $sampai; ?></b></h4>
     </div>
 		<div class="box-body">
-                
+              
                 <a target="_blank" href="cetak_laporan.php?dari=<?php echo $dari; ?>&sampai=<?php echo $sampai; ?>" class="btn btn-sm btn-success"><i class="menu-icon fa fa-print"></i>CETAK</a>
+
 		        <br>
             <br>
 			
