@@ -5,7 +5,7 @@
     </div>
 		<div class="box-body">
 		
-            <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#modal-default"><i class="fa fa-send-o">
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal-default"><i class="fa fa-send-o">
                 Add New Transaksi
              </button></i>
         
